@@ -1,13 +1,13 @@
-package com.andersonlorena.springboot.apilab;
+package com.andersonlorena.springboot.labapi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ApiLabApplication {
+public class LabapiApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ApiLabApplication.class, args);
+		SpringApplication.run(LabapiApplication.class, args);
 	}
 
 }
